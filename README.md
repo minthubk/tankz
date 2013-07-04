@@ -19,7 +19,7 @@ Basic operation
 ---------------
 
 * W/S - to accelerate forward or backward
-* A/D - to turn left and right (note: you must be moving for this to work)
+* A/D - to steer left and right
 * mouse scroll button to zoom in / out
 
 Note: Assumes keyboard support on Android device.
