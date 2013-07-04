@@ -1,0 +1,152 @@
+
+input1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo
+  rotate: false
+  xy: 2, 2
+  size: 461, 100
+  orig: 461, 100
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 2, 104
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+statusBar
+  rotate: false
+  xy: 2, 358
+  size: 196, 29
+  orig: 196, 29
+  offset: 0, 0
+  index: -1
+minimapBg
+  rotate: false
+  xy: 256, 104
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mammoth
+  rotate: false
+  xy: 2, 389
+  size: 157, 110
+  orig: 256, 256
+  offset: 52, 73
+  index: -1
+shadow
+  rotate: false
+  xy: 256, 298
+  size: 153, 126
+  orig: 256, 256
+  offset: 47, 65
+  index: -1
+tracks
+  rotate: false
+  xy: 256, 426
+  size: 140, 11
+  orig: 140, 11
+  offset: 0, 0
+  index: -1
+hudBg
+  rotate: false
+  xy: 465, 2
+  size: 128, 116
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 465, 120
+  size: 124, 110
+  orig: 256, 256
+  offset: 54, 73
+  index: -1
+tile
+  rotate: false
+  xy: 465, 232
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+tower
+  rotate: false
+  xy: 161, 389
+  size: 87, 71
+  orig: 256, 256
+  offset: 81, 92
+  index: -1
+rearTracks
+  rotate: false
+  xy: 465, 342
+  size: 66, 94
+  orig: 256, 256
+  offset: 52, 81
+  index: -1
+crate
+  rotate: false
+  xy: 256, 439
+  size: 63, 63
+  orig: 64, 64
+  offset: 0, 1
+  index: -1
+barrels
+  rotate: false
+  xy: 161, 462
+  size: 58, 36
+  orig: 256, 256
+  offset: 151, 110
+  index: -1
+crosshair
+  rotate: false
+  xy: 411, 298
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+rightFrontTrackCover
+  rotate: false
+  xy: 411, 348
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+leftFrontTrackCover
+  rotate: false
+  xy: 411, 381
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+frontTrack
+  rotate: false
+  xy: 200, 358
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 200, 375
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+bar
+  rotate: false
+  xy: 221, 462
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+healthBar
+  rotate: false
+  xy: 245, 358
+  size: 3, 9
+  orig: 3, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/tankz"/>
+	<classpathentry exported="true" kind="lib" path="/tankz/libs/gdx.jar" sourcepath="/tankz/libs/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/tankz/libs/tween-engine-api.jar" sourcepath="/tankz/libs/tween-engine-api-sources.jar"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/gushiku-common"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/artemis"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
